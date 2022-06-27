@@ -1,1 +1,1 @@
-Quartz Client is a super optimized client made for the best preformance.
+Quartz Client is a super optimized Minecraft client made for the best preformance.
